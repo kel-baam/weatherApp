@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "weatherApp",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../../Downloads/weather-app-img/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weatherApp"
+	}
+}
