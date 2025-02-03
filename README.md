@@ -1,0 +1,14 @@
+# MINI WEATHE APLICATION
+
+
+
+
+### searching area for the city Weather details
+<img src="img/searchCity" width="300" style="display: inline-block; margin-right: 10px;" />
+
+
+
+
+### the details page for a city 
+
+<img src="img/cityDetails" width="300" style="display: inline-block;" />
